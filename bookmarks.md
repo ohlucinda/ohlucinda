@@ -67,35 +67,6 @@ permalink: /bookmarks/
 </details>
 
 
-
-<details class="bookmark-group">
-
-  <summary>
-
-    Bandcamp
-
-  </summary>
-
-  <div class="bookmark-links">
-
-    <div>
-      <a href="https://jemmusicja.bandcamp.com" target="_blank">Je'm</a>
-    </div>
-
-    <div>
-      <a href="https://ohlucinda.bandcamp.com" target="_blank">OHLUCINDA</a>
-    </div>
-
-    <div>
-      <a href="https://aquawits.bandcamp.com" target="_blank">AQUAWITS</a>
-    </div>
-
-  </div>
-
-</details>
-
-
-
 <details class="bookmark-group">
 
   <summary>
